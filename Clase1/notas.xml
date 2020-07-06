@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notas>
+    <noticia>
+        <id>12</id>
+        <titulo>TITULO 1</titulo>
+        <cuerpo>BLABLA</cuerpo>
+        <autor>AUTOR</autor>
+        <fecha>2020-07-06</fecha>
+        <imagen>URL</imagen>
+    </noticia>
+    <noticia>
+        <id>13</id>
+        <titulo>TITULO 2</titulo>
+        <cuerpo>BLABLA</cuerpo>
+        <autor>AUTOR</autor>
+        <fecha>2020-07-06</fecha>
+        <imagen>URL</imagen>
+    </noticia>
+</notas>
