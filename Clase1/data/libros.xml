@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<libros>
+    <libro isbn="1234567890">
+        <titulo>El secreto de sus ojos</titulo>
+        <autor>Sacheri</autor>
+        <editorial>Planeta</editorial>
+    </libro>
+<libro isbn="1234567890"><titulo>Harry Potter</titulo><autor>JR Tolkien</autor><editorial>Paid&#xF3;s</editorial></libro></libros>
